@@ -36,6 +36,7 @@ TODO item.
 3. It allows users to update the status.
 ![Screenshot (381)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/f62b1aec-4ec1-42c2-a08b-c08492d20227)
 4. It sends a PUT request to the JSONPlaceholder API to update the TODO item.
+   ![Screenshot (399)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/9d0e48d7-b37a-438d-8d07-230cf54b2cb8)
 
 # Getting Started with Create React App
 
