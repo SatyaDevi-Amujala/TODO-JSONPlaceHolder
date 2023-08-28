@@ -28,6 +28,7 @@ status (completed or not).
 1. It creates a new TODO item.
    ![Screenshot (385)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/9e8581b2-f468-4c9d-b3ce-47eec77ccc06)
 2. Upon submission,It sends a POST request to the JSONPlaceholder API to add the new
+   ![Screenshot (398)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/84e5bc82-c1c3-4e13-bded-42b4abd06421)
 TODO item.
 ## Update TODO:
 1. It modifies the details of an existing TODO item.
