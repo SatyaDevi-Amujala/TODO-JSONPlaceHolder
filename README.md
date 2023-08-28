@@ -13,8 +13,9 @@ Building  a TODO CRUD (Create, Read, Update, Delete) project using React.js.
 3. Set up routing using react-router to navigate between different sections of the app.
    # PAGES
 ## Home Page:
-1. It displays a list of TODO items fetched from the
-JSONPlaceholder API.
+1. It displays a list of TODO items fetched from the JSONPlaceholder API.
+   ![Screenshot (373)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/7e8fdd75-5614-40cd-81ce-820435133eae)
+
 2.It Displays TODO items in a responsive grid layout, with each item showing its title and
 status (completed or not).
 ## TODO Detail Page:
