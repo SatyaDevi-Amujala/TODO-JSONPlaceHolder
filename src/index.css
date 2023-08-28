@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+tabl{
+  width:50%;
+  border:5px solid red;
+}
+
+.md{
+
+
+  padding:50px 0px ;
+  margin:20px 0px;
+ 
+}
+.box{
+margin-top:10px;
+padding:13px;
+
+}
+.mt{
+  margin-right:10%;
+}
+.mdl{
+  margin-left:3%;
+  padding:5px;
+}
+.pd{
+  padding-left:5px;
+  padding-top:3%;
+}
+.mar{
+margin-left:20%;
+}
+.marc{
+  width:60%;
+  padding:3%;
+  }
+.mdr{
+  margin-right:25%;
+}
