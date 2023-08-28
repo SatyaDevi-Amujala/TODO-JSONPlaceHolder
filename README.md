@@ -32,7 +32,7 @@ TODO item.
 1. It modifies the details of an existing TODO item.
 2. It Pre-fill the input field with the current data of the TODO item.
 3. It allows users to update the status.
-
+![Screenshot (381)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/f62b1aec-4ec1-42c2-a08b-c08492d20227)
 4. It sends a PUT request to the JSONPlaceholder API to update the TODO item.
 
 # Getting Started with Create React App
