@@ -23,6 +23,7 @@ status (completed or not).
 2. It Provides an option to mark a TODO item as completed or not completed.
    ![Screenshot (374)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/40945f81-5e3d-4873-a3c5-c490cc006ce8)
 3.It allows users to delete a TODO item.
+![Screenshot (377)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/d66b2f86-c862-49cb-badb-00748310dc6f)
 ## Create TODO:
 1. It creates a new TODO item.
 3. Upon submission,It sends a POST request to the JSONPlaceholder API to add the new
