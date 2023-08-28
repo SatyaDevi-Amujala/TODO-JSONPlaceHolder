@@ -2,10 +2,10 @@
 ## Objective:
 Building  a TODO CRUD (Create, Read, Update, Delete) project using React.js.
 ## Tech Stack:
-● React.js for the frontend
-● Bootstrap for styling
-● JSONPlaceholder for the backend mock API
-● Axios for API requests
+● React.js for the frontend.
+● Bootstrap for styling.
+● JSONPlaceholder for the backend mock API.
+● Axios for API requests.
 ## Requirements:
 ## Setup:
 1. Initialize a new React.js project.
