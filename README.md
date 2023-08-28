@@ -21,7 +21,8 @@ status (completed or not).
 ## TODO Detail Page:
 1. It displays full details of a selected TODO item.
 2. It Provides an option to mark a TODO item as completed or not completed.
-3. It allows users to delete a TODO item.
+   ![Screenshot (374)](https://github.com/SatyaDevi-Amujala/TODO-JSONPlaceHolder/assets/133928428/40945f81-5e3d-4873-a3c5-c490cc006ce8)
+3.It allows users to delete a TODO item.
 ## Create TODO:
 1. It creates a new TODO item.
 3. Upon submission,It sends a POST request to the JSONPlaceholder API to add the new
