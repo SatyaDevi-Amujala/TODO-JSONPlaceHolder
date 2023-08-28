@@ -1,7 +1,6 @@
-TODO CRUD Project in React.js
-Objective:
-Build a TODO CRUD (Create, Read, Update, Delete) project using React.js, incorporating best
-practices in terms of code organization, responsiveness, and code quality.
+# TODO CRUD Project in React.js
+# Objective:
+Building  a TODO CRUD (Create, Read, Update, Delete) project using React.js.
 Tech Stack:
 ● React.js for the frontend
 ● Bootstrap for styling
