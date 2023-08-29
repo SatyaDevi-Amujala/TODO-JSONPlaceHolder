@@ -27,17 +27,18 @@ const Create = () => {
       
     }
     else{
-     
+     Id=201;
     }
     //Posting new data into rest API
     axios.post('https://jsonplaceholder.typicode.com/todos',{ userId:1,
+    id:Id,
     title:Title,
     completed:status}).then(
        
     (arr) => {console.log("JSONDATA",arr.data);
     //Adding newly created data at front of array
   data.unshift(arr.data);
-    //data[0].id=Id
+    data[0].id=Id
              });
 
   
